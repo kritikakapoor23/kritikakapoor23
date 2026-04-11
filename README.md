@@ -1,7 +1,9 @@
 ## Hi, I'm Kritika Kapoor 👋
 > Frontend Developer · Tech Enthusiast · AI Explorer 🤖
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikakapoor23&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=f9a726)](https://github.com/kritikakapoor23)
+<div align="center">
+![Contribution Graph](https://ghchart.rshah.org/39d353/kritikakapoor23)
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kritikakapoor23&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
