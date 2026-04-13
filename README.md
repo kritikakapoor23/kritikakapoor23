@@ -1,9 +1,6 @@
 ## Hi, I'm Kritika Kapoor 👋
 > Frontend Developer · Tech Enthusiast · AI Explorer 🤖
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikakapoor23&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=f9a726)](https://github.com/kritikakapoor23)
-
----
 
 ### 🧑‍💻 About Me
 - 🎨 Frontend developer with a love for clean, performant, pixel-perfect UIs
@@ -31,5 +28,5 @@
 ---
 
 <div align="center">
-  <i>Built with ❤️ and too much coffee</i>
+  <i>Built with ❤️ and too much coffee!</i>
 </div>
