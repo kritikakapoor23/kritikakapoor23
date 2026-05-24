@@ -1,32 +1,64 @@
-## Hi, I'm Kritika Kapoor 👋
-> Frontend Developer · Tech Enthusiast · AI Explorer 🤖
+# Hey, I'm Kritika Kapoor 👋
 
-
-### 🧑‍💻 About Me
-- 🎨 Frontend developer with a love for clean, performant, pixel-perfect UIs
-- 🛠 I enjoy exploring new tools, frameworks, and the bleeding edge of tech
-- 🤖 Currently learning Python — **AI & ML is next on the roadmap**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1800&color=7EE787&width=435&lines=it+student+%C2%B7+full-stack+%C2%B7+gen+ai;react+%2B+fastapi+%2B+langchain;building+across+the+entire+ai+stack;turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 ---
 
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python_(learning)-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### About me
+
+<table bgcolor="#0d1117">
+  <tr>
+    <td width="50%">
+      <b>🎓 Final-year IT student</b><br/>
+      <sub>Just getting started — a lot incoming</sub>
+    </td>
+    <td width="50%">
+      <b>🎨 Full-stack leaning</b><br/>
+      <sub>React on the front, FastAPI on the back</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🤖 AI stack, end to end</b><br/>
+      <sub>LangChain → LangGraph → whatever's next</sub>
+    </td>
+    <td width="50%">
+      <b>🔍 Problem-first mindset</b><br/>
+      <sub>Interested in AI that solves real problems</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-kapoor-22249232b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kritikakapoor23)
+### ⚡ Right now
+
+- Building Gen AI apps with LangChain & FastAPI
+- Next up: LangGraph — agents, workflows, multi-step reasoning
+- Goal: cover the full AI engineering stack, not just the surface
 
 ---
 
-<div align="center">
-  <i>Built with ❤️ and too much coffee!</i>
-</div>
+### 🛠 Tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-059988?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C7ED6?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph_%E2%9C%A6_next-8957E5?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05632?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+### 📬 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-kapoor-22249232b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kritikakapoor23)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kritikakapoor131@gmail.com)
+
+---
+
+<p align="center">Always learning · Always shipping</p>
