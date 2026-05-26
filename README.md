@@ -1,6 +1,6 @@
 # Hey, I'm Kritika Kapoor 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1800&color=7EE787&width=435&lines=it+student+%C2%B7+full-stack+%C2%B7+gen+ai;react+%2B+fastapi+%2B+langchain;building+across+the+entire+ai+stack;turning+ideas+into+working+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1800&color=7EE787&width=435&lines=IT+student+%C2%B7+full-stack+%C2%B7+gen+ai;react+%2B+fastapi+%2B+langchain;building+across+the+entire+ai+stack;turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 ---
 
