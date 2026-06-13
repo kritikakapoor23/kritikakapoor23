@@ -4,38 +4,11 @@
 
 ---
 
-### About me
+### 🚀 Currently Building
 
-<table bgcolor="#0d1117">
-  <tr>
-    <td width="50%">
-      <b>🎓 Final-year IT student</b><br/>
-      <sub>Just getting started — a lot incoming</sub>
-    </td>
-    <td width="50%">
-      <b>🎨 Full-stack leaning</b><br/>
-      <sub>React on the front, FastAPI on the back</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🤖 AI stack, end to end</b><br/>
-      <sub>LangChain → LangGraph → whatever's next</sub>
-    </td>
-    <td width="50%">
-      <b>🔍 Problem-first mindset</b><br/>
-      <sub>Interested in AI that solves real problems</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ Right now
-
-- Building Gen AI apps with LangChain & FastAPI
-- Next up: LangGraph — agents, workflows, multi-step reasoning
-- Goal: cover the full AI engineering stack, not just the surface
+- Developing Gen AI apps with **LangChain** & **FastAPI**
+- Exploring **LangGraph** next — agents, multi-step reasoning & agentic workflows
+- Goal: Full-stack AI Engineer — from frontend to inference
 
 ---
 
