@@ -1,36 +1,34 @@
-# Hey, I'm Kritika Kapoor 👋
+# Kritika Kapoor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1800&color=7EE787&width=435&lines=IT+student+%C2%B7+full-stack+%C2%B7+gen+ai;react+%2B+fastapi+%2B+langchain;building+across+the+entire+ai+stack;turning+ideas+into+working+software)](https://git.io/typing-svg)
-
----
-
-### 🚀 Currently Building
-
-- Developing Gen AI apps with **LangChain** & **FastAPI**
-- Exploring **LangGraph** next — agents, multi-step reasoning & agentic workflows
-- Goal: Full-stack AI Engineer — from frontend to inference
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=2000&color=7EE787&width=500&lines=Frontend+Engineer+%E2%80%94+React+%C2%B7+JavaScript+%C2%B7+CSS;Clean+UIs+backed+by+real+APIs;)](https://git.io/typing-svg)
 
 ---
 
-### 🛠 Tech stack
+### What I build
 
+Frontend applications with React and JS component-driven UIs, REST API integration, and responsive layouts. I also build and connect FastAPI backends when the project calls for it.
+
+---
+
+### Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-059988?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C7ED6?style=flat&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph_%E2%9C%A6_next-8957E5?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05632?style=flat&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EA2D2E?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
-### 📬 Reach me
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-kapoor-22249232b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kritikakapoor23/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kritikakapoor23)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kritikakapoor131@gmail.com)
 
 ---
 
