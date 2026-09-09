@@ -1,9 +1,5 @@
 # Kritika Kapoor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=2000&color=7EE787&width=500&lines=Frontend+Engineer+%E2%80%94+React+%C2%B7+JavaScript+%C2%B7+CSS;Clean+UIs+backed+by+real+APIs;)](https://git.io/typing-svg)
-
----
-
 ### What I build
 
 Frontend applications with React and JS component-driven UIs, REST API integration, and responsive layouts. I also build and connect FastAPI backends when the project calls for it.
