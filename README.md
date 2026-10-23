@@ -16,8 +16,8 @@
 ## 📌 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [MultiMind](https://github.com/kritikakapoor23/<Multimind>) | Multimodal RAG: chat, compare and understand documents | Python, RAG, LLMs |
-| [PolicyLens](https://github.com/kritikakapoor23/<PolicyLens>) (in progress) | Cited question answering over health-insurance policy PDFs. It finds the relevant passages, answers only from them, shows the page and clause it used, and says so when the documents don't contain the answer. | Python 3.12, uv, Gemini, LangChain, Pydantic |
+| [MultiMind](https://github.com/kritikakapoor23/Multimind) | Multimodal RAG: chat, compare and understand documents | Python, RAG, LLMs |
+| [PolicyLens](https://github.com/kritikakapoor23/PolicyLens) (in progress) | Cited question answering over health-insurance policy PDFs. It finds the relevant passages, answers only from them, shows the page and clause it used, and says so when the documents don't contain the answer. | Python 3.12, uv, Gemini, LangChain, Pydantic |
 
 ## ⚙️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
